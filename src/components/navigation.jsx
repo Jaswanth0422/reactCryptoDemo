@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
+            Cryptoscene
           </a>{' '}
         </div>
 
@@ -27,32 +27,32 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#features' className='page-scroll'>
-                Features
+                Home
               </a>
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
+                Create
               </a>
             </li>
             <li>
               <a href='#services' className='page-scroll'>
-                Services
+                Collect
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Watch
               </a>
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testimonials
+                Trade
               </a>
             </li>
             <li>
               <a href='#team' className='page-scroll'>
-                Team
+                About
               </a>
             </li>
             <li>
